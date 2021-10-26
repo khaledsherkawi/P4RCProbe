@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c404d72-c802-42f8-8507-13223f1d0cbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1zNCaQM98997LDKdq8RR6eOkcKA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../../benchmarking-p4runtime/src/main/java/de/uniwuerzburg/info3/ofcprobe/vswitch" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c404d72-c802-42f8-8507-13223f1d0cbc" name="Default Changelist" comment="" />
+      <created>1633979221525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633979221525</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Latest updates">
+      <created>1633989725997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633989725997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Latest updates">
+      <created>1633991251052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633991251052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Latest updates">
+      <created>1633991483396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633991483396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Latest updates">
+      <created>1633992305857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633992305857</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Main.java">
+      <created>1635230230349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635230230349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Latest updates" />
+    <MESSAGE value="Add Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Main.java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="278" width="1351" height="678" key="DiffContextDialog" timestamp="1633987952172">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="309" y="278" width="1351" height="678" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1633987952172" />
+    <state x="764" y="375" key="FileChooserDialogImpl" timestamp="1634037131102">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="764" y="375" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1634037131102" />
+    <state x="666" y="358" width="863" height="570" key="find.popup" timestamp="1633990692989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="666" y="358" width="863" height="570" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1633990692989" />
+  </component>
+</project>
